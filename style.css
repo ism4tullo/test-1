@@ -1,0 +1,15 @@
+.btn-all {
+  display: flex;
+}
+.btn {
+  padding: 20px;
+  width: 65px;
+}
+
+.active {
+  background-color: red;
+}
+
+div  {
+	transform: rotate(20deg);
+}
